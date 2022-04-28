@@ -1,4 +1,4 @@
-# Introdução a Python - UNIVESP
+# Introdução à Python - UNIVESP
 
  <img align="center"  height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> Programas em Python que estou desenvolvendo durante as aulas da UNIVESP.
 
